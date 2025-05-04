@@ -1,5 +1,4 @@
 //dob validation
-localStorage.clear();
 let dob=document.getElementById("dob");
 
 
